@@ -46,13 +46,12 @@ Each model was trained and evaluated on the **processed NYC Airbnb dataset**.
 
 - **Neural Network:**  
   - Achieved moderate performance (**R² = 0.34**),  
-  - Can be further improved through tuning (e.g., more epochs, different learning rate, or deeper architecture).
 
 - **Linear Regression & SVR:**  
   - Performed decently but limited in handling complex, non-linear relationships.
 
 - **K-Means Clustering:**  
-  - Not a predictive model, but useful for identifying **price-based customer segments** and **market grouping patterns**.
+  KMeans has the LOWEST R² (0.0874) - explains only 8.74% of price variance,K-Means has the HIGHEST RMSE ($285.44) - worst prediction accuracy
 
 ---
 
@@ -66,4 +65,5 @@ Each model was trained and evaluated on the **processed NYC Airbnb dataset**.
 ---
 
 ✅ *All results are based on the final processed dataset used in the project notebooks.*
+
 
