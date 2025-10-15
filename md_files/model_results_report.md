@@ -27,6 +27,8 @@ Each model was trained and evaluated on the **processed NYC Airbnb dataset**.
 | 2 | 305.63 |
 | 3 | 161.91 |
 | 4 | 180.20 |
+- **R²:** 0.3427  
+- **RMSE:** $285.44 
 
 *(Used for segmentation, not prediction)*
 
@@ -64,3 +66,4 @@ Each model was trained and evaluated on the **processed NYC Airbnb dataset**.
 ---
 
 ✅ *All results are based on the final processed dataset used in the project notebooks.*
+
