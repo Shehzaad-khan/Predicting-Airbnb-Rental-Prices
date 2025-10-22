@@ -3,8 +3,9 @@
 ## 📋 Project Details
 **Title:** Airbnb Rental Price Prediction  
 **Team:** ML_PROJECT Team  
-**Collaborators:** Shehzaad_khan, mohit78999
-**Description:**  
+**Collaborators:** Shehzaad_khan,mohit78999
+
+**Description:**
 Predict optimal Airbnb rental prices using advanced machine learning techniques. This project helps hosts maximize occupancy and earnings while offering guests pricing transparency.
 
 ---
